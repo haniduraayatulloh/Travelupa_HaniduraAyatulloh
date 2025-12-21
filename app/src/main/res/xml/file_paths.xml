@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Ini memberikan izin sementara kepada aplikasi kamera untuk mengakses
+        subdirektori 'cache' dari aplikasi Anda. Gambar dari kamera akan
+        disimpan di sini sebelum di-upload atau diproses.
+    -->
+    <cache-path
+        name="shared_images"
+        path="." />
+</paths>
