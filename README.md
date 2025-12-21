@@ -13,8 +13,7 @@ Aplikasi Travelupa adalah aplikasi mobile yang dibangun menggunakan Kotlin dan J
 | **Nama Lengkap** | **HANIDURA AYATULLOH** |
 | **NIM / NRP** | **225150207111005** |
 | **Program Studi** | **Teknik Informatika** |
-| **Universitas** | [NAMA UNIVERSITAS, SILAKAN GANTI] |
-| **Email Kontak** | [ALAMAT EMAIL AKTIF, SILAKAN GANTI] |
+| **Universitas** | **Universitas Brawijaya** |
 
 ---
 
@@ -24,22 +23,22 @@ Proyek ini terbagi dalam 9 Bab penyelesaian. Status per [Tanggal Pengumpulan/Dea
 
 ### ✅ Bab Terselesaikan (1 - 8)
 
-| Bab | Deskripsi | Status | Catatan |
+| Bab | Judul Sub Bab Modul (Sesuai/Derivasi Fitur Modul) | Status | Catatan |
 | :--- | :--- | :--- | :--- |
-| **Bab 1** | Pendahuluan / Latar Belakang | Selesai | |
-| **Bab 2** | Tinjauan Pustaka | Selesai | |
-| **Bab 3** | Metodologi Penelitian | Selesai | |
-| **Bab 4** | Desain Sistem | Selesai | |
-| **Bab 5** | Implementasi Authentication | Selesai | |
-| **Bab 6** | Implementasi Data dan Fitur CRUD | Selesai | |
-| **Bab 7** | Implementasi Geolocation & Database | Selesai | |
-| **Bab 8** | Pengujian Sistem (Testing) | Selesai | **Selesai 1 Menit Sebelum Deadline Pengumpulan.** |
+| **Bab 1** | **Android Studio**  | Selesai | 
+| **Bab 2** | **Jetpack Compose (Bagian 1)**  | Selesai | 
+| **Bab 3** | **Jetpack Compose (Bagian 2)** | Selesai | 
+| **Bab 4** | **UI State**  | Selesai |
+| **Bab 5** | **Google Firebase dan REST API** | Selesai | 
+| **Bab 6** | **Kotlin Coroutines** | Selesai |
+| **Bab 7** | **Jetpack Navigation** | Selesai |
+| **Bab 9** | **Camera X**  | Selesai | **Selesai 1 Menit Sebelum Deadline Pengumpulan.** |
 
-### ❌ Bab Belum Terselesaikan (Bab 9)
+### ❌ Bab Belum Terselesaikan 
 
-| Bab | Deskripsi | Status | Catatan |
+| Bab | Judul Sub Bab Modul (Derivasi) | Status | Catatan |
 | :--- | :--- | :--- | :--- |
-| **Bab 9** | Analisis dan Hasil Akhir | Belum Selesai | Membutuhkan waktu tambahan untuk menyusun analisis data hasil pengujian secara komprehensif. |
+| **Bab 9** | **Room Database** | Belum Selesai | Terkendala Gradle level Module. |
 
 ---
 
