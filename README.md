@@ -11,7 +11,7 @@ Aplikasi Travelupa adalah aplikasi mobile yang dibangun menggunakan Kotlin dan J
 | Kategori | Detail |
 | :--- | :--- |
 | **Nama Lengkap** | **HANIDURA AYATULLOH** |
-| **NIM / NRP** | **225150207111005** |
+| **NIM** | **225150207111005** |
 | **Program Studi** | **Teknik Informatika** |
 | **Universitas** | **Universitas Brawijaya** |
 
@@ -38,7 +38,7 @@ Proyek ini terbagi dalam 9 Bab penyelesaian. Status per [Tanggal Pengumpulan/Dea
 
 | Bab | Judul Sub Bab Modul (Derivasi) | Status | Catatan |
 | :--- | :--- | :--- | :--- |
-| **Bab 9** | **Room Database** | Belum Selesai | Terkendala Gradle level Module. |
+| **Bab 8** | **Room Database** | Belum Selesai | Terkendala Gradle level Module. |
 
 ---
 
